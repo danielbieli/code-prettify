@@ -1,4 +1,4 @@
-# Getting Started
+# Google Prettify Syntax Highlighting
 
 You can load the Prettify script to highlight code in your web pages.
 
